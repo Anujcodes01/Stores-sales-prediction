@@ -1,0 +1,9 @@
+flask
+numpy 
+pandas 
+seaborn 
+matplotlib
+path
+scikit-learn
+joblib
+-e .
