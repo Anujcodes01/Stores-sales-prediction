@@ -20,8 +20,7 @@ list_of_files = [
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/entity/config_entity.py",
     f"src/{project_name}/constants/__init__.py",
-    f"src/{project_name}/logger/__init__.py",
-    f"src/{project_name}/exception/__init__.py",
+   
     
     
     "config/config.yaml",
@@ -35,7 +34,7 @@ list_of_files = [
     "notebooks/trials.ipynb",
     "templates/index.html",
     "test.py",
-    'upload_data_to_database/mongodb.py'
+    
 
 
 ]
