@@ -13,6 +13,6 @@ types-PyYAML
 Flask
 Flask-Cors
 pymongo
-Path
+
 
 -e .
