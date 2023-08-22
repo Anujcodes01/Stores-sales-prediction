@@ -1,0 +1,8 @@
+artifacts_root: artifacts 
+
+data_ingestion:
+root_dir: artifacts/data_ingestion
+source_dir_train: https://github.com/Anujdh8755/data_collector/raw/main/sales_store/Train%20(1).csv
+source_dir_test: https://github.com/Anujdh8755/data_collector/raw/main/sales_store/Test%20(1).csv
+train_file : artifacts/data_ingestion/train(1).csv
+test_file : artifacts/data_ingestion/test(1).csv

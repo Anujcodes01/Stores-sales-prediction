@@ -34,7 +34,8 @@ list_of_files = [
     "setup.py",
     "notebooks/trials.ipynb",
     "templates/index.html",
-    "test.py"
+    "test.py",
+    'upload_data_to_database/mongodb.py'
 
 
 ]
